@@ -19,7 +19,7 @@ Detailed description of the project, the problem it solves, and the context with
 * **Database**: PostgreSQL
 * **Cloud**: AWS Lambda, S3, RDS
 
-## 🏗️ Architecture
+## Architecture
 
 ![Architecture Diagram](https://raw.githubusercontent.com/usuario/repo/main/docs/arquitectura.png)
 
@@ -98,7 +98,3 @@ Implemented solution...
 | Requests/sec  | 100    | 500   |
 | Monthly Cost  | $500   | $200  |
 
-
-
-
-Si quieres, te lo dejo también en formato **README.md limpio** listo para pegar en GitHub. ¿Deseas eso?
