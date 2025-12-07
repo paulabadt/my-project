@@ -1,9 +1,3 @@
-# **Project Name**
-
-![Project Banner](https://raw.githubusercontent.com/usuario/repo/main/docs/banner.png)
-
-## Description
-
 Detailed description of the project, the problem it solves, and the context within the SENA.
 
 ## Objectives
@@ -20,8 +14,6 @@ Detailed description of the project, the problem it solves, and the context with
 * **Cloud**: AWS Lambda, S3, RDS
 
 ## Architecture
-
-![Architecture Diagram](https://raw.githubusercontent.com/usuario/repo/main/docs/arquitectura.png)
 
 System architecture description...
 
@@ -74,11 +66,9 @@ exports.handler = async (event) => {
 
 ### Main Dashboard
 
-![Dashboard](https://raw.githubusercontent.com/usuario/repo/main/docs/screenshot1.png)
 
 ### Admin Panel
 
-![Admin Panel](https://raw.githubusercontent.com/usuario/repo/main/docs/screenshot2.png)
 
 ## Technical Challenges
 
