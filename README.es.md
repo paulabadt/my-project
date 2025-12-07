@@ -93,9 +93,5 @@ Solución implementada...
 | Costo mensual | $500 | $200 |
 
 
-## ⚠️ Nota
-
-Este proyecto fue desarrollado durante mi labor como instructora en el SENA. El código y repositorio son propiedad del SENA.
-
 
 
