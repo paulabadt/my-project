@@ -1,9 +1,3 @@
-# Nombre del Proyecto
-
-![Banner del proyecto](https://raw.githubusercontent.com/usuario/repo/main/docs/banner.png)
-
-## Descripción
-
 Descripción detallada del proyecto, el problema que resuelve y el contexto del SENA.
 
 ## Objetivos
@@ -21,7 +15,6 @@ Descripción detallada del proyecto, el problema que resuelve y el contexto del 
 
 ## Arquitectura
 
-![Diagrama de arquitectura](https://raw.githubusercontent.com/usuario/repo/main/docs/arquitectura.png)
 
 Descripción de la arquitectura del sistema...
 
@@ -71,10 +64,10 @@ exports.handler = async (event) => {
 ## Capturas de Pantalla
 
 ### Dashboard Principal
-![Dashboard](https://raw.githubusercontent.com/usuario/repo/main/docs/screenshot1.png)
+
 
 ### Panel de Administración
-![Admin Panel](https://raw.githubusercontent.com/usuario/repo/main/docs/screenshot2.png)
+
 
 ## Desafíos Técnicos
 
